@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dailytest/Dailytest.iml" filepath="$PROJECT_DIR$/Dailytest/Dailytest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exam/Exam.iml" filepath="$PROJECT_DIR$/Exam/Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/Homework.iml" filepath="$PROJECT_DIR$/Homework/Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java code of idea.iml" filepath="$PROJECT_DIR$/Java code of idea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mysql/Mysql.iml" filepath="$PROJECT_DIR$/Mysql/Mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflection/Reflection.iml" filepath="$PROJECT_DIR$/Reflection/Reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data structure/data structure.iml" filepath="$PROJECT_DIR$/data structure/data structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datastructure/datastructure.iml" filepath="$PROJECT_DIR$/datastructure/datastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/javaweb.iml" filepath="$PROJECT_DIR$/javaweb/javaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usuallysort/usuallysort.iml" filepath="$PROJECT_DIR$/usuallysort/usuallysort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web1/web1.iml" filepath="$PROJECT_DIR$/web1/web1.iml" />
+    </modules>
+  </component>
+</project>

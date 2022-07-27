@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+    <book sn="123001">
+        <name>明朝那些事</name>
+        <price>89</price>
+        <author>当年明月</author>
+    </book>
+    <book sn="1001">
+        <name>昆虫记</name>
+        <price>100</price>
+        <author>法布尔</author>
+    </book>
+</books>
